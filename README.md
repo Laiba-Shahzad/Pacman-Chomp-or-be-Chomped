@@ -1,6 +1,9 @@
 # Pacman-Chomp-or-be-Chomped
 A classic Pacman clone built from scratch using C++ and SFML.
 
+# Link to Download File:
+https://laiba-shahzad.itch.io/pacman
+
 ## Features
 - Full playable maze
 - Ghost AI
